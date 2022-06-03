@@ -15,8 +15,9 @@ Interest rates for these loan will be very low compared to any financial institu
 * Add records to capture saving members
 * Add loan payment record
 
-<b>Member functionalities:</b>
+<b>Member functionalities:</b><br/>
 For members it is not mandatory to have app. If member has app then members can view the following:
 * View all the groups which they are part-of.
 * In each group they can view their total saving amount, outstanding loan amount and next loan premium to pay.
 * Get reminders for meeting.
+
